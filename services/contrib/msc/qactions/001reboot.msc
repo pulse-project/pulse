@@ -1,0 +1,4 @@
+title=Reboot
+titlefr=Redémarrer
+titlede=Neustart
+command=@@do_reboot@@
